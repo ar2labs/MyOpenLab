@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = DCT (Discrete Cosinus Transformation)
+CAPTION_EN      = DCT (Discrete Cosinus Transformation)
+CAPTION_ES      = DCT (Transformacion discreta de Coseno)
+CAPTION_PT      = DCT
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = DCT
+CLASSFRONT      = 
+ICON            = bin/DCT.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

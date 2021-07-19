@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = OR-Gatter
+CAPTION_EN      = OR-Gate
+CAPTION_ES      = Operador OR
+CAPTION_PT      = Operador OR
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = OR
+CLASSFRONT      = 
+ICON            = bin/OR.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

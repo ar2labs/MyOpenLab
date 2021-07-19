@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = ColToRGB
+CAPTION_EN      = ColToRGB
+CAPTION_ES      = Color a RGB
+CAPTION_PT      = Cor para RGB
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = ColToRGB
+CLASSFRONT      = 
+ICON            = bin/ColToRGB.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

@@ -1,0 +1,7 @@
+ISDIRECTORY     = TRUE
+CAPTION         = Processing
+CAPTION_EN      = Processing
+CAPTION_ES      = Processing
+CAPTION_PT      = Processing
+ICON            = icon32.png
+VM_DIR_EDITABLE = TRUE

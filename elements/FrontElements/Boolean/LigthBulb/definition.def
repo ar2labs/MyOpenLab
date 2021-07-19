@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        =
+LOADER          =
+CAPTION         = LigthBulb
+CAPTION_EN      = LigthBulb
+CAPTION_ES      = Foco
+CAPTION_PT      = Lampada
+VM              =
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = LightBulb
+CLASSFRONT      = LightBulbPanel
+ICON            = bin/icon.png
+CLASSPATH       =
+CLASSPATH2      =
+ELEMENTIMAGE    =
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

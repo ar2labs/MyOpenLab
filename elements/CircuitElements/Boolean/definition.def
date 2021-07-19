@@ -1,0 +1,7 @@
+ISDIRECTORY     = TRUE
+CAPTION         = Boolean
+CAPTION_EN      = Boolean
+CAPTION_ES      = Operadores Digitales
+CAPTION_PT      = Operadores Logicos
+ICON            = icon32.png
+VM_DIR_EDITABLE = TRUE

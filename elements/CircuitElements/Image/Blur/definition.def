@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Weichzeichnen
+CAPTION_EN      = Smooth
+CAPTION_ES      = Alisar
+CAPTION_PT      = Suavizar
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Weichzeichnen
+CLASSFRONT      = 
+ICON            = bin/Weichzeichnen.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        =
+LOADER          =
+CAPTION         = LED
+CAPTION_EN      = LED
+CAPTION_ES      = LED
+CAPTION_PT      = LED
+VM              =
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = LED
+CLASSFRONT      = LEDPanel
+ICON            = bin/icon.png
+CLASSPATH       =
+CLASSPATH2      =
+ELEMENTIMAGE    =
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

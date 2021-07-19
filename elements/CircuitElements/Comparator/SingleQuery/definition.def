@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        =
+LOADER          =
+CAPTION         = Single Abfrage
+CAPTION_EN      = Single Query
+CAPTION_ES      = Simple Pregunta
+CAPTION_PT      = Pergunta Simples
+VM              =
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = SingleQuery
+CLASSFRONT      =
+ICON            = bin/icon.png
+CLASSPATH       =
+CLASSPATH2      =
+ELEMENTIMAGE    =
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

@@ -1,0 +1,7 @@
+ISDIRECTORY     = TRUE
+CAPTION         = Controller
+CAPTION_EN      = Controllers
+CAPTION_ES      =  Controladores
+CAPTION_PT      = Controladores
+ICON            = icon32.png
+VM_DIR_EDITABLE = TRUE

@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Color Konstante
+CAPTION_EN      = Color constant
+CAPTION_ES      = Color constante
+CAPTION_PT      = Cor constante
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = ColorConst
+CLASSFRONT      = 
+ICON            = bin/ColorConst.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

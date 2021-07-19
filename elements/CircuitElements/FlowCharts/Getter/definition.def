@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Getter
+CAPTION_EN      = Getter
+CAPTION_ES      = Leer Dato
+CAPTION_PT      = Ler dados
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = GetterDouble
+CLASSFRONT      = 
+ICON            = bin/icon.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

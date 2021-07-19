@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = ComboBox
+CAPTION_EN      = ComboBox
+CAPTION_ES      = Selector
+CAPTION_PT      = ComboBox
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = INTCombo
+CLASSFRONT      = Panel
+ICON            = bin/INTCombo.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

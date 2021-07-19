@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Frequenz Generator
+CAPTION_EN      = Frequency Generator
+CAPTION_ES      = Generador de Frecuencia
+CAPTION_PT      = Gerador de Frequencia
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Generator
+CLASSFRONT      = 
+ICON            = bin/Generator.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

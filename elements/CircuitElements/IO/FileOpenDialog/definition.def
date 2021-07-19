@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = FileOpen Dialog
+CAPTION_EN      = FileOpen Dialog
+CAPTION_ES      = Diálogo AbrirFichero
+CAPTION_PT      = Abrir Arquivo
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = GetFile
+CLASSFRONT      = 
+ICON            = bin/icon.png
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = BalkenRegler
+CAPTION_EN      = ControlBar
+CAPTION_ES      = Barra de Controle
+CAPTION_PT      = Barra de Controle
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = BalkenRegler
+CLASSFRONT      = AnzeigePanel
+ICON            = bin/BalkenRegler.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

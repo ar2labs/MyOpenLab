@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Element Property Setter
+CAPTION_EN      = Element Property Setter
+CAPTION_ES      = Controla Tamaño/Posicion Objeto
+CAPTION_PT      = Element Property Setter
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = ElementPropertySetter
+CLASSFRONT      = 
+ICON            = bin/icon.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

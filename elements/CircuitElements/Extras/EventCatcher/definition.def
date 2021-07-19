@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        =
+LOADER          =
+CAPTION         = Mouse Event Catcher
+CAPTION_EN      = Mouse Event Catcher
+CAPTION_ES      = Control con Ratón
+CAPTION_PT      = Controle do Mouse
+VM              =
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = EventCatcher
+CLASSFRONT      =
+ICON            = bin/icon.png
+CLASSPATH       =
+CLASSPATH2      =
+ELEMENTIMAGE    =
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

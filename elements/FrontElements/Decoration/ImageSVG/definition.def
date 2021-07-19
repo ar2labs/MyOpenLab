@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = SVG Image
+CAPTION_EN      = SVG Image
+CAPTION_ES      = SVG Image
+CAPTION_PT      = Imagem SVG
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = 
+CLASSFRONT      = Panel
+ICON            = bin/icon.png
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

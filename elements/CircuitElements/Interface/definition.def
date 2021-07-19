@@ -1,0 +1,7 @@
+ISDIRECTORY     = TRUE
+CAPTION         = Schnittstellen
+CAPTION_EN      = Interfaces
+CAPTION_ES      = Interfaces
+CAPTION_PT      = Interfaces
+ICON            = icon32.png
+VM_DIR_EDITABLE = TRUE

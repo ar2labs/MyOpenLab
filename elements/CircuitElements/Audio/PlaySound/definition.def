@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Sound abspielen
+CAPTION_EN      = PlaySound
+CAPTION_ES      = Ejecutar Sonido
+CAPTION_PT      = Tocar Audio
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = PlaySound
+CLASSFRONT      = 
+ICON            = bin/icon.png
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = RGBtoInt
+CAPTION_EN      = RGBtoInt
+CAPTION_ES      = RGB a Integer
+CAPTION_PT      = RGB para Decimal
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = RGBtoInt
+CLASSFRONT      = 
+ICON            = bin/icon.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

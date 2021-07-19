@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Threshold
+CAPTION_EN      = Threshold
+CAPTION_ES      = Umbral
+CAPTION_PT      = Limite
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Threshold
+CLASSFRONT      = 
+ICON            = bin/Threshold.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

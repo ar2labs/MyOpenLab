@@ -1,0 +1,7 @@
+ISDIRECTORY     = TRUE
+CAPTION   =Bitwise-Operators
+CAPTION_EN=Bitwise-Operators
+CAPTION_ES=Bitwise-Operators
+CAPTION_PT=Operadores Bitwise
+ICON=icon32.png
+VM_DIR_EDITABLE = TRUE

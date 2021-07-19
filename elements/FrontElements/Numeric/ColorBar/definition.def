@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = ColorBar
+CAPTION_EN      = Fill Display
+CAPTION_ES      = Barra de Color
+CAPTION_PT      = Barra de Cor
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = FuellstandAnzeige
+CLASSFRONT      = AnzeigePanel
+ICON            = bin/FuellstandAnzeige.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

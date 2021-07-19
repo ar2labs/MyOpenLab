@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = NXOR-Gatter
+CAPTION_EN      = NXOR-Gate
+CAPTION_ES      = Operador NXOR
+CAPTION_PT      = Operador NXOR
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = NXOR
+CLASSFRONT      = 
+ICON            = bin/NXOR.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

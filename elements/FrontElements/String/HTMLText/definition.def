@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        =
+LOADER          =
+CAPTION         = HTML/Ausgabe
+CAPTION_EN      = HTML/Output
+CAPTION_ES      = Panel/HTML
+CAPTION_PT      = Panel/HTML
+VM              =
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = HTMLText
+CLASSFRONT      = HTMLTextPanel
+ICON            = bin/icon.gif
+CLASSPATH       =
+CLASSPATH2      =
+ELEMENTIMAGE    =
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

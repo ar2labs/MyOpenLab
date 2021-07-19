@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Rundes Rechteck
+CAPTION_EN      = Round Rectangle
+CAPTION_ES      = Rectángulo Rotundo
+CAPTION_PT      = Retangulo Redondo
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = 
+CLASSFRONT      = RoundRect
+ICON            = bin/RoundRect.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

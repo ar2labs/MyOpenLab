@@ -1,0 +1,7 @@
+ISDIRECTORY     = TRUE
+CAPTION         = Farbe
+CAPTION_EN      = Color
+CAPTION_ES      = Color
+CAPTION_PT      = Color
+ICON            = icon32.png
+VM_DIR_EDITABLE = TRUE

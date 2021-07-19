@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = NAND-Gatter
+CAPTION_EN      = NAND-Gatter
+CAPTION_ES      = Operador NAND
+CAPTION_PT      = Operador NAND
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = NAND
+CLASSFRONT      = 
+ICON            = bin/NAND.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

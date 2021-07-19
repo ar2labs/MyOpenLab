@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Bild laden
+CAPTION_EN      = Load Image
+CAPTION_ES      = Carga Imagen
+CAPTION_PT      = Carregar Imagem
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = LoadImage
+CLASSFRONT      = 
+ICON            = bin/LoadImage.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

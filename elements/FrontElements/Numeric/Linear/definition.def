@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Linear
+CAPTION_EN      = Linear
+CAPTION_ES      = Lineal
+CAPTION_PT      = Linear
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = GaugeCircuit
+CLASSFRONT      = GaugePanel
+ICON            = bin/Gauge.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

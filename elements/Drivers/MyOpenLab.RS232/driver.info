@@ -1,0 +1,6 @@
+Jar        = /bin/JavaSerial.jar
+Class      = RS232
+classpath  = /bin
+Copyrights = AR2 Labs
+Website    = https://github.com/ar2labs
+Licence    = LGPL (http://www.gnu.org/licenses/lgpl.html)

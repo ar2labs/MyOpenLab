@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = ImpulseDelay
+CAPTION_EN      = ImpulseDelay
+CAPTION_ES      = Impulso Retardo
+CAPTION_PT      = Impulso com Atraso
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = ImpulseDelay
+CLASSFRONT      = 
+ICON            = bin/icon.png
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

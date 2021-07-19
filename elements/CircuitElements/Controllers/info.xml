@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <caption>Controller</caption>
+  <caption_en>Controllers</caption_en>
+  <caption_es> Controladores</caption_es>
+  <caption_pt>Controladores</caption_pt>
+  <categorie>Education</categorie>
+  <author>Anderson Costa</author>
+  <email>arcostasi@gmail.com</email>
+  <web>https://github.com/arcostasi</web>
+  <version>1.0.0.0</version>
+  <date>20.07.2020</date>
+  <dest_path>/CircuitElements/Controllers</dest_path>
+  <type>CircuitElements</type>
+  <content>
+  </content>
+</root>

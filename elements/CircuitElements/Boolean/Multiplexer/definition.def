@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Multiplexer
+CAPTION_EN      = Multiplexer
+CAPTION_ES      = Multiplexor
+CAPTION_PT      = Multiplexador
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Multiplexer
+CLASSFRONT      = 
+ICON            = bin/icon.png
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

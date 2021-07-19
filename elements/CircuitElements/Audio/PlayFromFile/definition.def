@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        =
+LOADER          =
+CAPTION         = Von Datei abspielen
+CAPTION_EN      = Play from file
+CAPTION_ES      = Ejecutar desde un Fichero
+CAPTION_PT      = Tocar de Arquivo
+VM              =
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = PlayFromFile
+CLASSFRONT      =
+ICON            = bin/icon.png
+CLASSPATH       =
+CLASSPATH2      =
+ELEMENTIMAGE    =
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

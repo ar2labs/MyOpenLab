@@ -1,0 +1,16 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = StopWatch
+CAPTION_EN      = StopWatch
+CAPTION_ES      = Cronometro
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = GaugeCircuit
+CLASSFRONT      = GaugePanel
+ICON            = bin/Gauge.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

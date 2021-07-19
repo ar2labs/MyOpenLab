@@ -1,0 +1,73 @@
+
+plugins {
+    // Apply the application plugin to add support for building a CLI application.
+    id 'application'
+
+    // Apply the shadow plugin to add support for creating a fat jar
+    id "com.github.johnrengelman.shadow" version "6.1.0"
+}
+
+repositories {
+    // Use jcenter for resolving dependencies
+    mavenCentral()
+}
+
+dependencies {
+
+    implementation 'javax.xml.bind:jaxb-api:2.3.1'
+    implementation 'javax.vecmath:vecmath:1.5.2'
+
+    implementation 'org.swinglabs:swing-layout:1.0.3'
+    implementation 'org.json:json:20210307'
+    implementation 'org.tinylog:tinylog-impl:2.3.2'
+
+    // Serial SerialPort
+    implementation 'org.scream3r:jssc:2.8.0'
+    // implementation 'org.bidib.jbidib:bidib-rxtx-binaries:2.2'
+
+    // Visual Components
+    implementation 'eu.hansolo:SteelSeries:3.9.30'
+
+    // FlatLaf is a modern open-source cross-platform
+    // Look and Feel for Java Swing
+    implementation 'com.formdev:flatlaf:1.2' // 0.38
+
+    implementation 'org.apache.xmlgraphics:batik-svg-dom:1.14'
+}
+
+compileJava {
+    sourceCompatibility = JavaVersion.VERSION_11
+    targetCompatibility = JavaVersion.VERSION_11
+}
+
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+    options.compilerArgs << "-Xlint:deprecation"
+    // options.compilerArgs << "-Xlint:unchecked"
+}
+
+// Define the main class for the application
+mainClassName = 'VisualLogic.FrameMain'
+
+application {
+    group = 'org.myopenlab.myopenlab'
+    version = '3.12'
+    description = 'myOpenLab'
+}
+
+test {
+    // Use junit platform for unit tests
+    useJUnitPlatform()
+    testLogging {
+        events "passed", "skipped", "failed"
+    }
+}
+
+shadowJar {
+    archiveFileName = 'MyOpenLab.jar'
+    destinationDirectory = file("$rootDir")
+    mergeServiceFiles()
+    manifest {
+        attributes 'Main-Class': mainClassName
+    }
+}

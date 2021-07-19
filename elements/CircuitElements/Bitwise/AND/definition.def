@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = AND Bit-Operation
+CAPTION_EN      = AND Bit-Operation
+CAPTION_ES      = AND Operación-Bit
+CAPTION_PT      = Operador de Bit-AND
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = AND
+CLASSFRONT      = 
+ICON            = bin/icon.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

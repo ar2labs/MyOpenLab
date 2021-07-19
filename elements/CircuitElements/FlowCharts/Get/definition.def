@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Get
+CAPTION_EN      = Get
+CAPTION_ES      = Get
+CAPTION_PT      = Get (Robot)
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Get
+CLASSFRONT      = 
+ICON            = bin/icon.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

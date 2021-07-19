@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Arduino IO Interface v1.3
+CAPTION_EN      = Arduino IO Interface v1.3
+CAPTION_ES      = Arduino IO Interface v1.3
+CAPTION_PT      = Arduino IO Interface v1.3
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Arduino
+CLASSFRONT      = 
+ICON            = bin/icon.png
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

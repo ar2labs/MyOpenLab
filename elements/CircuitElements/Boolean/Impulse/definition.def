@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Impluse
+CAPTION_EN      = Impulse
+CAPTION_ES      = Impulso
+CAPTION_PT      = Impulso
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Impluse
+CLASSFRONT      = 
+ICON            = bin/Impluse.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

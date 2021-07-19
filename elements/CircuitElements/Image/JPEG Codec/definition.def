@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = JPEG Codec
+CAPTION_EN      = JPEG Codec
+CAPTION_ES      = Codifica JPEG
+CAPTION_PT      = Codificador JPEG
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = JPEGCODER
+CLASSFRONT      = 
+ICON            = bin/JPEGCODER.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

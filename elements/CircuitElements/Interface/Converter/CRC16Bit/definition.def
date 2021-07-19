@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = CRC 16 Bit
+CAPTION_EN      = CRC 16 Bit
+CAPTION_ES      = CRC 16 Bit
+CAPTION_PT      = CRC 16 Bit
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = CRC16
+CLASSFRONT      = 
+ICON            = bin/icon.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

@@ -1,0 +1,7 @@
+ISDIRECTORY     = TRUE
+CAPTION         = Abfragen
+CAPTION_EN      = Queries
+CAPTION_ES      = Comparaciones
+CAPTION_PT      = Comparadores
+ICON            = icon32.png
+VM_DIR_EDITABLE = TRUE

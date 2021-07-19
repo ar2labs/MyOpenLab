@@ -1,0 +1,7 @@
+ISDIRECTORY     = TRUE
+CAPTION         = Elements
+CAPTION_EN      = Elements
+CAPTION_ES      = Elements
+CAPTION_PT      = Elementos
+ICON            = stdlib32.png
+VM_DIR_EDITABLE = TRUE

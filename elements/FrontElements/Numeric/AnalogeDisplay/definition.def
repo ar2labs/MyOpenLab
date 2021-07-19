@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Analoge Anzeige
+CAPTION_EN      = Analog Display
+CAPTION_ES      = Pantalla Analógica
+CAPTION_PT      = Display Analógico
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = AnalogAnzeige
+CLASSFRONT      = AnalogAnzeigePanel
+ICON            = bin/icon.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

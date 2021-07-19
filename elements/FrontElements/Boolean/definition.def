@@ -1,0 +1,7 @@
+ISDIRECTORY     = TRUE
+CAPTION         = Input-Output
+CAPTION_EN      = Input-Output
+CAPTION_ES      = Entrada-Salida
+CAPTION_PT      = Entrada-Saída
+ICON            = icon32.png
+VM_DIR_EDITABLE = TRUE

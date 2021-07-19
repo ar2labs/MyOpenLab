@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Start
+CAPTION_EN      = Start
+CAPTION_ES      = Start
+CAPTION_PT      = Inicio
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Start
+CLASSFRONT      = 
+ICON            = bin/icon.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

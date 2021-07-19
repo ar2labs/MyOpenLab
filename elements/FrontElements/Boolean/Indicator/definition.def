@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        =
+LOADER          =
+CAPTION         = Indicator
+CAPTION_EN      = Indicator
+CAPTION_ES      = Indicador
+CAPTION_PT      = Indicador
+VM              =
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = GaugeCircuit
+CLASSFRONT      = GaugePanel
+ICON            = bin/icon.png
+CLASSPATH       =
+CLASSPATH2      =
+ELEMENTIMAGE    =
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

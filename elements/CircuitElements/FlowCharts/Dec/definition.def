@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Decrease
+CAPTION_EN      = Decrease
+CAPTION_ES      = Decrementar
+CAPTION_PT      = Decremento
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Dec
+CLASSFRONT      = 
+ICON            = bin/icon.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

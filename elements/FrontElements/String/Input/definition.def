@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        =
+LOADER          =
+CAPTION         = Eingabe
+CAPTION_EN      = Input
+CAPTION_ES      = Ingresso
+CAPTION_PT      = Entrada
+VM              =
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Input
+CLASSFRONT      = InputPanel
+ICON            = bin/icon.gif
+CLASSPATH       =
+CLASSPATH2      =
+ELEMENTIMAGE    =
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

@@ -1,0 +1,7 @@
+ISDIRECTORY     = TRUE
+CAPTION         = Flowcharts
+CAPTION_EN      = Flowcharts
+CAPTION_ES      = Diagramas de Flujo
+CAPTION_PT      = Diagramas de Fluxo
+ICON            = icon32.png
+VM_DIR_EDITABLE = TRUE

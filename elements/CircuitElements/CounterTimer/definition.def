@@ -1,0 +1,7 @@
+ISDIRECTORY     = TRUE
+CAPTION         = Zähler und Timer
+CAPTION_EN      = Counter and Timer
+CAPTION_ES      = Contadores/ de tiempo
+CAPTION_PT      = Temporizadores
+ICON            = icon32.png
+VM_DIR_EDITABLE = TRUE

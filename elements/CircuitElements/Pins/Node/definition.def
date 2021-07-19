@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        =
+LOADER          =
+CAPTION         = Knoten
+CAPTION_EN      = Node
+CAPTION_ES      = Node
+CAPTION_PT      = Nó
+VM              =
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Node
+CLASSFRONT      =
+ICON            = bin/icon.png
+CLASSPATH       =
+CLASSPATH2      =
+ELEMENTIMAGE    =
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

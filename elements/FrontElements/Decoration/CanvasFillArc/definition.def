@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Fill Arc
+CAPTION_EN      = Fill Arc
+CAPTION_ES      = Arco Relleno
+CAPTION_PT      = Arco
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = 
+CLASSFRONT      = RoundRect
+ICON            = bin/RoundRect.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

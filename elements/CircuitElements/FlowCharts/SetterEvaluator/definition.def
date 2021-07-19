@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Setter Evaluator
+CAPTION_EN      = Setter Evaluator
+CAPTION_ES      = Evaluar Expresión
+CAPTION_PT      = Avaliador Setter
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = SetterEval
+CLASSFRONT      = 
+ICON            = bin/icon.png
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

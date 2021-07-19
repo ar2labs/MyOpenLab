@@ -1,0 +1,7 @@
+ISDIRECTORY     = TRUE
+CAPTION         = Zeichnen
+CAPTION_EN      = Draw
+CAPTION_ES      = Dibujar
+CAPTION_PT      = Desenhos
+ICON            = icon32.png
+VM_DIR_EDITABLE = TRUE

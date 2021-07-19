@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        =
+LOADER          =
+CAPTION         = isGroesser
+CAPTION_EN      = isBigger
+CAPTION_ES      = Mayor que
+CAPTION_PT      = Maior que
+VM              =
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Greater
+CLASSFRONT      =
+ICON            = bin/icon.png
+CLASSPATH       =
+CLASSPATH2      =
+ELEMENTIMAGE    =
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

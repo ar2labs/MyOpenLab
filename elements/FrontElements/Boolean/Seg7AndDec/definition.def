@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Siebensegment Anzeige + Decoder
+CAPTION_EN      = 7-Segment-Display + Decoder
+CAPTION_ES      = Display 7 segmentos + Decodificador
+CAPTION_PT      = Display 7 segmentos + Decodificador
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Seg7AndDec
+CLASSFRONT      = Panel
+ICON            = bin/Seg7AndDec.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

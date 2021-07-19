@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Scrollierbares Bild anzeigen
+CAPTION_EN      = Show Scrollable Image
+CAPTION_ES      = Show Scrollable Image
+CAPTION_PT      = Show Scrollable Image
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = ShowImage
+CLASSFRONT      = Panel
+ICON            = bin/ShowImage.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

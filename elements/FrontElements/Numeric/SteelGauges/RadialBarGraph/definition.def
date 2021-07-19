@@ -1,0 +1,16 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Radial BarGraph
+CAPTION_EN      = Radial BarGraph
+CAPTION_ES      = Radial BarGraph
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = GaugeCircuit
+CLASSFRONT      = GaugePanel
+ICON            = bin/Gauge.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

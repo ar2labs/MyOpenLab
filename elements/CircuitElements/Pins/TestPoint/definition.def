@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        =
+LOADER          =
+CAPTION         = Test Point
+CAPTION_EN      = Test Point
+CAPTION_ES      = Test Point
+CAPTION_PT      = Test Point
+VM              =
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = TP
+CLASSFRONT      =
+ICON            = bin/icon.png
+CLASSPATH       =
+CLASSPATH2      =
+ELEMENTIMAGE    =
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

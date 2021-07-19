@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Graustufen
+CAPTION_EN      = Grayscale
+CAPTION_ES      = Escala de Grises
+CAPTION_PT      = Escala de Cinzas
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Grayscale
+CLASSFRONT      = 
+ICON            = bin/Grayscale.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

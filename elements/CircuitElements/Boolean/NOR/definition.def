@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = NOR-Gatter
+CAPTION_EN      = NOR-Gate
+CAPTION_ES      = Operador NOR
+CAPTION_PT      = Operador NOR
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = NOR
+CLASSFRONT      = 
+ICON            = bin/NOR.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

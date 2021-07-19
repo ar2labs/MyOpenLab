@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Int4XDec
+CAPTION_EN      = Int4XDec
+CAPTION_ES      = Int4XDec
+CAPTION_PT      = Int4XDec
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Int4XDec
+CLASSFRONT      = 
+ICON            = bin/Int4XDec.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

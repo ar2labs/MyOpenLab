@@ -1,0 +1,7 @@
+ISDIRECTORY     = TRUE
+CAPTION         = CircuitElements
+CAPTION_EN      = CircuitElements
+CAPTION_ES      = CircuitElements
+CAPTION_PT      = CircuitElements
+ICON            = icon32.png
+VM_DIR_EDITABLE = TRUE

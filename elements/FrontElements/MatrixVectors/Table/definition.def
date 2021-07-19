@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Tabelle
+CAPTION_EN      = Table
+CAPTION_ES      = Table
+CAPTION_PT      = Tabela
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = MyTable
+CLASSFRONT      = Panel
+ICON            = bin/icon.png
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

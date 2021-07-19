@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        =
+LOADER          =
+CAPTION         = Output-pin
+CAPTION_EN      = Output-pin
+CAPTION_ES      = Pin-Salida
+CAPTION_PT      = Pino de Saida
+VM              =
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = OutputPin
+CLASSFRONT      =
+ICON            = bin/icon.png
+CLASSPATH       =
+CLASSPATH2      =
+ELEMENTIMAGE    =
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

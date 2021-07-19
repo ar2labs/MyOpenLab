@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = RS-FlipFlop
+CAPTION_EN      = RS-FlipFlop
+CAPTION_ES      = Biestable RS
+CAPTION_PT      = Flip Flop
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = FlipFlop
+CLASSFRONT      = 
+ICON            = bin/icon.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

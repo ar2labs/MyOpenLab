@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        =
+LOADER          =
+CAPTION         = Verteiler
+CAPTION_EN      = Splitter
+CAPTION_ES      = Nudo de Union
+CAPTION_PT      = Splitter
+VM              =
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Splitter
+CLASSFRONT      =
+ICON            = bin/icon.png
+CLASSPATH       =
+CLASSPATH2      =
+ELEMENTIMAGE    =
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

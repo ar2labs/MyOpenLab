@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        =
+LOADER          =
+CAPTION         = Taster
+CAPTION_EN      = PushButton
+CAPTION_ES      = Pulsadorluminoso
+CAPTION_PT      = Push Button
+VM              =
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = PushButton
+CLASSFRONT      = PushBPanel
+ICON            = bin/icon.png
+CLASSPATH       =
+CLASSPATH2      =
+ELEMENTIMAGE    =
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

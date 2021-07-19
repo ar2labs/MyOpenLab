@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Drehen
+CAPTION_EN      = Turn
+CAPTION_ES      = Turn
+CAPTION_PT      = Turn (Robot)
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Turn
+CLASSFRONT      = 
+ICON            = bin/icon.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

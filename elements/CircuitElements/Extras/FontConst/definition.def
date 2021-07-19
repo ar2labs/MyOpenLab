@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        =
+LOADER          =
+CAPTION         = Fonte Konstante
+CAPTION_EN      = Font constant
+CAPTION_ES      = Tipo Fuentes
+CAPTION_PT      = Tipo de Fonte
+VM              =
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = FontConst
+CLASSFRONT      =
+ICON            = bin/icon.png
+CLASSPATH       =
+CLASSPATH2      =
+ELEMENTIMAGE    =
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

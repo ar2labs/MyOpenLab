@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Number Generator
+CAPTION_EN      = Number Generator
+CAPTION_ES      = Generador Numerico
+CAPTION_PT      = Gerador Numérico
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = NumberGenerator
+CLASSFRONT      = 
+ICON            = bin/icon.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

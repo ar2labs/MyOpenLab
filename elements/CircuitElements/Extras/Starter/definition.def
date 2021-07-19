@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Starter
+CAPTION_EN      = Starter
+CAPTION_ES      = Ejecutar Externo
+CAPTION_PT      = Executar
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Starter
+CLASSFRONT      = 
+ICON            = bin/icon.png
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

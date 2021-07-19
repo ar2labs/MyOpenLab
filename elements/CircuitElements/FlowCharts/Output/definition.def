@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Println
+CAPTION_EN      = Println
+CAPTION_ES      = Println
+CAPTION_PT      = Println
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Output
+CLASSFRONT      = 
+ICON            = bin/icon.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

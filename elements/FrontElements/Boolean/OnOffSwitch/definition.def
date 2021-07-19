@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        =
+LOADER          =
+CAPTION         = SchiebeSchalter
+CAPTION_EN      = OnOffSwitch
+CAPTION_ES      = InterruptorOnOff
+CAPTION_PT      = Interruptor On Off
+VM              =
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = OnOffSwitch
+CLASSFRONT      = OnOffSwitchPanel
+ICON            = bin/icon.gif
+CLASSPATH       =
+CLASSPATH2      =
+ELEMENTIMAGE    =
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

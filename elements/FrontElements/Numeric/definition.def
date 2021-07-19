@@ -1,0 +1,7 @@
+ISDIRECTORY     = TRUE
+CAPTION         = Numerik
+CAPTION_EN      = Numeric
+CAPTION_ES      = Numericos
+CAPTION_PT      = Numéricos
+ICON            = icon32.png
+VM_DIR_EDITABLE = TRUE

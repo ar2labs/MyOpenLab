@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Linie zeichnen
+CAPTION_EN      = Draw Line
+CAPTION_ES      = Dibuja Linea
+CAPTION_PT      = Desenhar Linha
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = DrawLine
+CLASSFRONT      = 
+ICON            = bin/icon.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

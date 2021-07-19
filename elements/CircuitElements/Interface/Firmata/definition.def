@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Arduino Firmata v1.2
+CAPTION_EN      = Arduino Firmata v1.2
+CAPTION_ES      = Arduino Firmata v1.2
+CAPTION_PT      = Arduino Firmata v1.2
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Firmata
+CLASSFRONT      = 
+ICON            = bin/icon.png
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

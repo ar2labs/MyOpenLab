@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = FFT (Fast Fourier Transformation)
+CAPTION_EN      = FFT (Fast Fourier Transformation)
+CAPTION_ES      = FFT (Transformada de Fourier)
+CAPTION_PT      = FFT
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = FFT
+CLASSFRONT      = 
+ICON            = bin/FFT.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

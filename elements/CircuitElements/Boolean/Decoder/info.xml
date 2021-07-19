@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <caption>Decoder/Encoder</caption>
+  <caption_en>Decoder/Encoder</caption_en>
+  <caption_es>Decoder/Encoder</caption_es>
+  <caption_pt>Decoder/Encoder</caption_pt>
+  <categorie>Education</categorie>
+  <author>Carmelo Salafia</author>
+  <email>cswi@gmx.de</email>
+  <web>www.myopenlab.de</web>
+  <version>1.0.0.0</version>
+  <date>20.07.2020</date>
+  <dest_path>/CircuitElements/Decoder</dest_path>
+  <type>CircuitElements</type>
+  <content>
+  </content>
+</root>

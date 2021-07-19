@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Serial Port
+CAPTION_EN      = Serial Port
+CAPTION_ES      = Serial Port
+CAPTION_PT      = Serial Port
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = RS232v2
+CLASSFRONT      = 
+ICON            = bin/icon.png
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = String zeichnen
+CAPTION_EN      = Draw String
+CAPTION_ES      = Dibuja Texto
+CAPTION_PT      = Desenhar Texto
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = DrawString
+CLASSFRONT      = 
+ICON            = bin/icon.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

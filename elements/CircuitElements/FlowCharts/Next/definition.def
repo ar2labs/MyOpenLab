@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Next
+CAPTION_EN      = Next
+CAPTION_ES      = Next
+CAPTION_PT      = Proximo Loop
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = XNext
+CLASSFRONT      = 
+ICON            = bin/icon.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

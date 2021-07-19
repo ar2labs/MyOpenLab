@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = AND-Gatter
+CAPTION_EN      = AND-Gate
+CAPTION_ES      = Operador AND
+CAPTION_PT      = Operador AND
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = AND
+CLASSFRONT      = 
+ICON            = bin/AND.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

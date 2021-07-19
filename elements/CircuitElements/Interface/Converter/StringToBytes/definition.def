@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = String to Bytes
+CAPTION_EN      = String to Bytes
+CAPTION_ES      = String to Bytes
+CAPTION_PT      = String to Bytes
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = StringToBytes
+CLASSFRONT      = 
+ICON            = bin/icon.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

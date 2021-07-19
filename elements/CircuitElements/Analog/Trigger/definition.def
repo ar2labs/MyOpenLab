@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Trigger
+CAPTION_EN      = Trigger
+CAPTION_ES      = Triger
+CAPTION_PT      = Trigger
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Trigger
+CLASSFRONT      = 
+ICON            = bin/Trigger.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

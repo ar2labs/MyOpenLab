@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        =
+LOADER          =
+CAPTION         = Zaehler
+CAPTION_EN      = Counter
+CAPTION_ES      = Contador
+CAPTION_PT      = Contador
+VM              =
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Counter
+CLASSFRONT      =
+ICON            = bin/icon.gif
+CLASSPATH       =
+CLASSPATH2      =
+ELEMENTIMAGE    =
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

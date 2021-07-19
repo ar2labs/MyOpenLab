@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Spinner
+CAPTION_EN      = Spinner
+CAPTION_ES      = Spinner
+CAPTION_PT      = Spinner
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Spinner
+CLASSFRONT      = Panel
+ICON            = bin/spinner.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

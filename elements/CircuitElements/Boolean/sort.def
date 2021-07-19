@@ -1,0 +1,15 @@
+Decoder
+Impulse
+4BitCounter
+Multiplexer
+Demultiplexer
+FlipFlop
+DFlipFlop
+AND
+OR
+NOT
+NAND
+NOR
+NXOR
+XOR
+Combinational

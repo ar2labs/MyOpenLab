@@ -1,0 +1,7 @@
+ISDIRECTORY     = TRUE
+CAPTION         = Pins
+CAPTION_EN      = Pins
+CAPTION_ES      = Pinos
+CAPTION_PT      = Pinos
+ICON            = icon32.png
+VM_DIR_EDITABLE = TRUE

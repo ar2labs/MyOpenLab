@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        =
+LOADER          =
+CAPTION         = Schlafen
+CAPTION_EN      = Sleep
+CAPTION_ES      = Retardo
+CAPTION_PT      = Cronômetro
+VM              =
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Sleep
+CLASSFRONT      =
+ICON            = bin/icon.png
+CLASSPATH       =
+CLASSPATH2      =
+ELEMENTIMAGE    =
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Shift Left-Operation
+CAPTION_EN      = Shift Left-Operation
+CAPTION_ES      = Desplazamiento Izquierda
+CAPTION_PT      = Operador de Bit-SHIFT Esquerda
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = ShiftLeft
+CLASSFRONT      = 
+ICON            = bin/icon.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

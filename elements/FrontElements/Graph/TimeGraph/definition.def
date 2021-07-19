@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        =
+LOADER          =
+CAPTION         = Time Graph X
+CAPTION_EN      = Time Graph X
+CAPTION_ES      = Grafico Temporal X
+CAPTION_PT      = Grafico Temporal X
+VM              =
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = TimeGraphX
+CLASSFRONT      = OscPanel
+ICON            = bin/icon.png
+CLASSPATH       =
+CLASSPATH2      =
+ELEMENTIMAGE    =
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

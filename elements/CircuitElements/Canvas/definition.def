@@ -1,0 +1,7 @@
+ISDIRECTORY     = TRUE
+CAPTION         = Canvas
+CAPTION_EN      = Canvas
+CAPTION_ES      = Canvas
+CAPTION_PT      = Canvas
+ICON            = icon32.png
+VM_DIR_EDITABLE = TRUE

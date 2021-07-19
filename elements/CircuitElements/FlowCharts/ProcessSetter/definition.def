@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Setter
+CAPTION_EN      = Setter
+CAPTION_ES      = Leer
+CAPTION_PT      = Setter
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = ProcessSetter
+CLASSFRONT      = 
+ICON            = bin/icon.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

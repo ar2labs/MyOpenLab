@@ -1,0 +1,7 @@
+ISDIRECTORY     = TRUE
+CAPTION         = Images
+CAPTION_EN      = Image
+CAPTION_ES      = Imagenes
+CAPTION_PT      = Imagens
+ICON            = icon32.png
+VM_DIR_EDITABLE = TRUE

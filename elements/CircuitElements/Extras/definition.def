@@ -1,0 +1,7 @@
+ISDIRECTORY     = TRUE
+CAPTION         = Extras
+CAPTION_EN      = Extras
+CAPTION_ES      = Extras
+CAPTION_PT      = Extras
+ICON            = icon32.png
+VM_DIR_EDITABLE = TRUE

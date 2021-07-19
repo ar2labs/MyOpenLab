@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = AudioIn
+CAPTION_EN      = AudioIn
+CAPTION_ES      = Entrada Audio
+CAPTION_PT      = Entrada de Audio
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = AudioIn
+CLASSFRONT      = 
+ICON            = bin/AudioIn.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

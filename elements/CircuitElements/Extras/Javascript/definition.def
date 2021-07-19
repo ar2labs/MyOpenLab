@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Javascript
+CAPTION_EN      = Javascript
+CAPTION_ES      = Javascript
+CAPTION_PT      = Javascript
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Javascript
+CLASSFRONT      = 
+ICON            = bin/icon.png
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

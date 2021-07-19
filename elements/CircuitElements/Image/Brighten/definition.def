@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Helligkeit
+CAPTION_EN      = Brightnes
+CAPTION_ES      = Brillo
+CAPTION_PT      = Brilho
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Aufhellen
+CLASSFRONT      = 
+ICON            = bin/Aufhellen.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

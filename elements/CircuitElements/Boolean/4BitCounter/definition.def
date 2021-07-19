@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = 4-Bit Zaehler
+CAPTION_EN      = 4-Bit Counter
+CAPTION_ES      = Contador 4 Bits
+CAPTION_PT      = Contador 4 Bits
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Counter4Bit
+CLASSFRONT      = 
+ICON            = bin/Counter4Bit.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

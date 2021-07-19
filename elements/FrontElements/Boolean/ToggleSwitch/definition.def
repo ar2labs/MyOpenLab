@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = KippSchalter
+CAPTION_EN      = TiltButton
+CAPTION_ES      = Interruptor
+CAPTION_PT      = Interruptor
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = ToggleSwitch
+CLASSFRONT      = SwitchPanel
+ICON            = bin/icon.png
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

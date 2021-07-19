@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        =
+LOADER          =
+CAPTION         = Abfrage
+CAPTION_EN      = Query
+CAPTION_ES      = Pregunta
+CAPTION_PT      = Pergunta
+VM              =
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Query
+CLASSFRONT      =
+ICON            = bin/icon.png
+CLASSPATH       =
+CLASSPATH2      =
+ELEMENTIMAGE    =
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

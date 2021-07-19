@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        =
+LOADER          =
+CAPTION         = Dec->Bin
+CAPTION_EN      = Dec->Bin
+CAPTION_ES      = Cod. Dec->Bin
+CAPTION_PT      = Cod. Dec->Bin
+VM              =
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Dec2Bin
+CLASSFRONT      =
+ICON            = bin/icon.png
+CLASSPATH       =
+CLASSPATH2      =
+ELEMENTIMAGE    =
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

@@ -1,0 +1,7 @@
+ISDIRECTORY     = TRUE
+CAPTION         = Gauge Elemente
+CAPTION_EN      = Gauge Elements
+CAPTION_ES      = Indicadores de Aguja
+CAPTION_PT      = Indicador
+ICON            = icon32.png
+VM_DIR_EDITABLE = TRUE

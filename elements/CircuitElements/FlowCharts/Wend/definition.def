@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Wend
+CAPTION_EN      = Wend
+CAPTION_ES      = Wend
+CAPTION_PT      = Wend
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = XWend
+CLASSFRONT      = 
+ICON            = bin/icon.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

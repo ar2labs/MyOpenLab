@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = CannyDetector
+CAPTION_EN      = CannyDetector
+CAPTION_ES      = CannyDetector
+CAPTION_PT      = Detector de bordas
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = CannyDetector
+CLASSFRONT      = 
+ICON            = bin/CannyDetector.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

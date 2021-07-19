@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = IDCT (Inverse Discrete Cosinus Transformation)
+CAPTION_EN      = IDCT (Inverse Discrete Cosinus Transformation)
+CAPTION_ES      = IDCT (Tranformada Inversa Discreta del Coseno)
+CAPTION_PT      = IDCT
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = IDCT
+CLASSFRONT      = 
+ICON            = bin/IDCT.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

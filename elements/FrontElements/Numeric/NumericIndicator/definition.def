@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Anzeige JV
+CAPTION_EN      = Display
+CAPTION_ES      = Salida Numerica
+CAPTION_PT      = Saida Numerica
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Anzeige
+CLASSFRONT      = AnzeigePanel
+ICON            = bin/Anzeige.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

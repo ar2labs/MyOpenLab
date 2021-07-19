@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Ticker Timer
+CAPTION_EN      = Ticker Timer
+CAPTION_ES      = Contador Gen. Impulsos
+CAPTION_PT      = Contador Gen. Impulsos
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = TickerTimer
+CLASSFRONT      = 
+ICON            = bin/icon.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

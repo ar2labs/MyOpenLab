@@ -1,0 +1,7 @@
+ISDIRECTORY     = TRUE
+CAPTION         = Datei-IO
+CAPTION_EN      = File-IO
+CAPTION_ES      = Fichero E/S
+CAPTION_PT      = Arquivos E/S
+ICON            = icon32.png
+VM_DIR_EDITABLE = TRUE

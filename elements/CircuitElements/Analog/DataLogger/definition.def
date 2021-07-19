@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Data Logger
+CAPTION_EN      = Data Logger
+CAPTION_ES      = Registrador Datos
+CAPTION_PT      = Registrador de Dados
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Datalogger
+CLASSFRONT      = 
+ICON            = bin/icon.png
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

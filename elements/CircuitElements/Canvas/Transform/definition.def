@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Transformation
+CAPTION_EN      = Transformation
+CAPTION_ES      = Transformación
+CAPTION_PT      = Transformacao
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = Transformation
+CLASSFRONT      = 
+ICON            = bin/icon.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = Dreieck Left
+CAPTION_EN      = Triangle Left
+CAPTION_ES      = Triangulo Izquierda
+CAPTION_PT      = Triangulo para Esquerda
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = 
+CLASSFRONT      = Triangle
+ICON            = bin/Triangle.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

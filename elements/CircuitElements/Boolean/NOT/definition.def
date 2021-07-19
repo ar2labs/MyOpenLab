@@ -1,0 +1,17 @@
+ISDIRECTORY     = FALSE
+REDIRECT        = 
+LOADER          = 
+CAPTION         = NOT-Gatter
+CAPTION_EN      = NOT-Gate
+CAPTION_ES      = Operador NOT
+CAPTION_PT      = Operador NOT
+VM              = 
+VM_DIR_EDITABLE = false
+CLASSCIRCUIT    = NOT
+CLASSFRONT      = 
+ICON            = bin/NOT.gif
+CLASSPATH       = 
+CLASSPATH2      = 
+ELEMENTIMAGE    = 
+RESIZESYNCHRON  = TRUE
+SHOWINNERBORDER = TRUE

@@ -1,0 +1,7 @@
+ISDIRECTORY     = TRUE
+CAPTION         = Sockets
+CAPTION_EN      = Sockets
+CAPTION_ES      = Sockets
+CAPTION_PT      = Sockets
+ICON            = icon32.png
+VM_DIR_EDITABLE = TRUE
