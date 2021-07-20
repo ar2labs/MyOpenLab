@@ -4,8 +4,6 @@ This is a hard fork of the parent project [MyOpenLab](http://myopenlab.org) to b
 
 The original sources were downloaded from <https://sourceforge.net/p/myopenlab3/code/HEAD/tree/>.
 
-MyOpenLab is a graphical element-based development program aimed at simulating and modeling physical, electronic and control systems.
-
 ## Improvements
 
 - Migrated to GraalVM Community 21.1.0 Java 11 OpenJDK.
