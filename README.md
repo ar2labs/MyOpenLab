@@ -1,6 +1,6 @@
 # MyOpenLab BR Community
 
-This is a hard fork of the parent project [MyOpenLab](http://myopenlab.org) to bring support to Brazilian students and teachers in their native language (other languages ​​are supported), as well as using modern development practices and tools. The MyOpenLab project was initiated by Carmelo Daniel Salafia, a German developer, in 2006. In 2017, the development was handed over to Robinson Javier Velásquez, a Spanish developer.
+This is a hard fork of the parent project [MyOpenLab](http://myopenlab.org) to bring support to Brazilian students and teachers in their native language (other languages ​​are supported), as well as using modern development practices and tools. MyOpenLab is a graphical element-based development program aimed at simulating and modeling physical, electronic and control systems. It is a free tool whose project was started by Carmelo Daniel Salafia and transferred in 2017 to current programmer Javier Velásquez. This tool is available free of charge under a GNU General Public License in Spanish, English, German and Brazilian.
 
 The original sources were downloaded from <https://sourceforge.net/p/myopenlab3/code/HEAD/tree/>.
 
