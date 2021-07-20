@@ -1,6 +1,7 @@
-# MyOpenLab Community
+# MyOpenLab BR Community
 
-This is a fork of oficial [MyOpenLab](https://myopenlab.org/)
+This is a hard fork of the parent project [MyOpenLab](http://myopenlab.org) to bring support to Brazilian students and teachers in their native language (other languages ​​are supported), as well as using modern development practices and tools. The MyOpenLab project was initiated by Carmelo Daniel Salafia, a German developer, in 2006. In 2017, the development was handed over to Robinson Javier Velásquez, a Spanish developer.
+
 The original sources were downloaded from <https://sourceforge.net/p/myopenlab3/code/HEAD/tree/>.
 
 MyOpenLab is a graphical element-based development program aimed at simulating and modeling physical, electronic and control systems.
@@ -8,9 +9,9 @@ MyOpenLab is a graphical element-based development program aimed at simulating a
 ## Improvements
 
 - Migrated to GraalVM Community 21.1.0 Java 11 OpenJDK.
+- Added support for Brazilian Portuguese.
 - Added a modern cross-platform Look and Feel.
 - Reformats Java source code to comply with [Google Java Style](https://github.com/google/google-java-format).
-- Added support for Brazilian Portuguese.
 - New icons, many still with old icons.
 
 ## Cleaning
@@ -19,7 +20,7 @@ MyOpenLab is a graphical element-based development program aimed at simulating a
 - Removed repeated components that stopped working with these updates.
 - Removed old hardware drivers.
 
-## To Do
+## ToDo
 
 - All documentation must be redone;
 - Add support for integration with [PICSimLab](https://github.com/lcgamboa/picsimlab) (excellent support for many microcontrollers);
@@ -35,7 +36,13 @@ MyOpenLab is a graphical element-based development program aimed at simulating a
 2. Build using gradle
 
   ```terminal
-  gradlew.bat shadowJar --warning-mode all
+  gradlew shadowJar --warning-mode all
+  ```
+
+or on Windows
+
+  ```terminal
+  build.bat
   ```
 
 3. Run
@@ -44,7 +51,7 @@ MyOpenLab is a graphical element-based development program aimed at simulating a
   java -Xms256M -Xmx512M -Dnashorn.args="--no-deprecation-warning" -jar myOpenLab.jar "elements"
   ```
 
-or
+or on Windows
 
   ```terminal
   run.bat
